@@ -1,0 +1,24 @@
+google 
+	UdoCursosEspecuales
+
+
+
+outlook
+shake-shake_app@outlook.com
+
+
+key graph
+gpaudbOOBJY41$|iLJ357#}
+app id
+c7197890-2962-4cfc-8788-8abc4694c4fd
+id objeto
+abf45b65-cdb2-4c2c-a723-7f6b0949a694
+
+key user
+WaY?m.n*UVEbq5X]g7YcDGPGrG7UaoJ6
+
+uri
+api://c7197890-2962-4cfc-8788-8abc4694c4fd
+
+
+button.setEnabled(True)
